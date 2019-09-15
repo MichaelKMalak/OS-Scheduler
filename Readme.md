@@ -75,10 +75,10 @@ The process should act as if runs in the execution time, the process communicate
 
 ### Part 5 : Input / output (Objectives: simulation, evaluation OS Design)
 #### Input:
-![input sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/blob/master/sample/input.PNG)
+![input sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/master/sample/output_1.PNG)
 #### Output:
-![first output sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/blob/master/sample/output_1.PNG)
-![second output sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/blob/master/sample/output_2.PNG)
+![first output sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/master/sample/output_1.PNG)
+![second output sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/master/sample/output_2.PNG)
 
 ## How to use?
 ### To compile the project 
