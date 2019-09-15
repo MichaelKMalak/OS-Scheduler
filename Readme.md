@@ -1,5 +1,6 @@
 # A simple scheduler simulator for Operating Systems 
-Platform: Linux
+[![GitHub license](https://img.shields.io/github/license/MichaelKMalak/OS-Scheduler.svg)](https://github.com/MichaelKMalak/OS-Scheduler/blob/master/LICENSE)
+<br>Platform: Linux
 Language: C/C++
 
 ## Introduction
