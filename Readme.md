@@ -60,8 +60,8 @@ For each algorithm, the code reports:
 * standard deviation for average weighted turnaround time.
 
 The Scheduler Generates two files: (check Part 5)
-● Scheduler.log
-● Scheduler.perf
+* Scheduler.log
+* Scheduler.perf
 
 ### Part 4 : process (Objectives: simulation, IPC)
 #### Code file: process.cpp
