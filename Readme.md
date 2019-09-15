@@ -75,10 +75,9 @@ The process should act as if runs in the execution time, the process communicate
 ![second output sample](https://raw.githubusercontent.com/MichaelKMalak/OS-Scheduler/master/sample/output_2.PNG)
 
 ## How to use?
-### To compile the project 
-write on terminal
-<br>`make`
 
-### To run the project 
-write on terminal
+* Clone this repository.
+* To compile the project, write on linux terminal
+<br>`make`
+* To run the project, write on linux terminal
 <br>`make run`
